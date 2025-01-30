@@ -31,3 +31,5 @@ const nombresUnidos = mutantes.reduce((acumulador, nombre, indice) => {
 
 // Mostrar en consola el nuevo string creado
 console.log(nombresUnidos);
+
+
